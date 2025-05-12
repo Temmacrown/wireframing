@@ -106,6 +106,35 @@ A clickable mockup of the checkout page in a booking management app that include
 ---
 
 ## 🔍 Wireframe Type Used Here
+## 🛠️ Popular Wireframing Tools
+
+Creating wireframes is an essential part of the UI/UX design process, and several tools are available to help designers quickly bring their ideas to life. Here are some of the most commonly used wireframing tools:
+
+- **Figma**
+- Balsamiq
+- Adobe XD
+- Sketch
+- Lucidchart
+- Wireframe.cc
+
+### ⭐ Recommended Tool: Figma
+
+**Figma** is a powerful, cloud-based design and prototyping tool that has become a go-to choice for many designers and product teams.
+
+#### 🔍 Key Features:
+- **Real-Time Collaboration**: Multiple users can work on the same design simultaneously, making it perfect for remote teams.
+- **Intuitive Interface**: Drag-and-drop design components with easy-to-use tools for shapes, text, and layouts.
+- **Reusable Components**: Create design systems with reusable styles and components.
+- **Built-in Prototyping**: Link screens to simulate user flows and test interactions without switching tools.
+- **Cross-Platform Accessibility**: Accessible on any OS through a web browser, with desktop apps available.
+
+#### ✅ Why Use Figma for Wireframing?
+- Ideal for both **low-fidelity and high-fidelity wireframes**
+- Speeds up feedback loops with **commenting features**
+- Helps transition seamlessly from wireframe to **interactive prototype**
+- Encourages team alignment through **shared libraries and templates**
+
+Whether you're creating quick mockups or detailed user flows, Figma provides the flexibility and collaboration needed to design effective wireframes efficiently.
 
 > **Type:** _[Specify whether it's Low-Fidelity or High-Fidelity]_  
 > **Explanation:** _[Describe the wireframe’s level of detail, purpose, and how it fits into the design process]_  
