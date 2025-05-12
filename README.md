@@ -63,3 +63,52 @@ Represents how users will interact with the interface, helping developers unders
 ---
 
 Wireframes play a crucial role in aligning design vision with business goals, enabling early feedback, and reducing costly changes later in development.
+## 🧾 Types of Wireframes
+
+Wireframes come in different levels of detail and complexity depending on the stage of the design process. The two most common types are **low-fidelity** and **high-fidelity** wireframes.
+
+### 🪶 Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are simple, sketch-like representations of a user interface. They focus on structure and layout rather than detailed design.
+
+**Characteristics:**
+- Minimal detail, often black-and-white
+- Uses placeholders for images and text
+- Quick and easy to create
+
+**When to Use:**
+- During early brainstorming or ideation
+- When gathering initial feedback from stakeholders
+- To outline user flows and layout ideas before investing time in design
+
+**Example Use Case:**
+Sketching out the main pages of a booking system to determine how users will navigate from search to checkout.
+
+---
+
+### 🎯 High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are more detailed and closely resemble the final product. They include accurate spacing, content, colors, and often simulate interactions.
+
+**Characteristics:**
+- Detailed visual elements and real content
+- Shows UI components like buttons, dropdowns, and icons
+- May include responsive behavior and user interaction
+
+**When to Use:**
+- During the later stages of design
+- For developer handoff or usability testing
+- When presenting a polished concept to stakeholders
+
+**Example Use Case:**
+A clickable mockup of the checkout page in a booking management app that includes form validation and payment fields.
+
+---
+
+## 🔍 Wireframe Type Used Here
+
+> **Type:** _[Specify whether it's Low-Fidelity or High-Fidelity]_  
+> **Explanation:** _[Describe the wireframe’s level of detail, purpose, and how it fits into the design process]_  
+
+_Example: This wireframe is a low-fidelity mockup created to visualize the core layout and navigation of the booking management dashboard. It helps the team align on page structure before moving to detailed design._
+
